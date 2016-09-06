@@ -47,10 +47,8 @@ retinaSDK.FullClient = (function (apiKey, apiServer, retina) {
        var acceptHeader = "";
        // Set request header depending on endpoint being called
        if (url.indexOf("/image") >= 0 && url.indexOf("bulk") == -1) {
-           console.log('took this path')
            acceptHeader = "image/png"
        } else {
-           console.log('took this path')
 
            acceptHeader = "application/json"
 

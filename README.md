@@ -3,11 +3,11 @@
 ## Installation
 
 ```sh
-npm install accepts
+npm install retinasdk
 ```
 
 ## API
 
 ```js
-var accepts = require('accepts')
+var accepts = require('retinasdk')
 ```

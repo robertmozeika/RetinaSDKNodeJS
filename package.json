@@ -1,6 +1,6 @@
 {
   "name": "retinasdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Retina SDK for Node JS, take a tour",
   "main": "retina-sdk.js",
   "scripts": {
